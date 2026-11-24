@@ -117,12 +117,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/sainaveen-cpu/leetcode/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/sainaveen-cpu/leetcode/tree/master/0258-add-digits) |
 | [1920-build-array-from-permutation](https://github.com/sainaveen-cpu/leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/sainaveen-cpu/leetcode/tree/master/1929-concatenation-of-array) |
 ## Math
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/sainaveen-cpu/leetcode/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/sainaveen-cpu/leetcode/tree/master/0258-add-digits) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/sainaveen-cpu/leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sainaveen-cpu/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/sainaveen-cpu/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -146,4 +148,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/sainaveen-cpu/leetcode/tree/master/0067-add-binary) |
 | [0191-number-of-1-bits](https://github.com/sainaveen-cpu/leetcode/tree/master/0191-number-of-1-bits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/sainaveen-cpu/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/sainaveen-cpu/leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
