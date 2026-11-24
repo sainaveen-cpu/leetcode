@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/sainaveen-cpu/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [1773-count-items-matching-a-rule](https://github.com/sainaveen-cpu/leetcode/tree/master/1773-count-items-matching-a-rule) |
 ## Binary Search
 |  |
 | ------- |
@@ -17,4 +18,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/sainaveen-cpu/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+## String
+|  |
+| ------- |
+| [1773-count-items-matching-a-rule](https://github.com/sainaveen-cpu/leetcode/tree/master/1773-count-items-matching-a-rule) |
 <!---LeetCode Topics End-->
