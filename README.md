@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/sainaveen-cpu/leetcode/tree/master/0009-palindrome-number) |
 | [0067-add-binary](https://github.com/sainaveen-cpu/leetcode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/sainaveen-cpu/leetcode/tree/master/0258-add-digits) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/sainaveen-cpu/leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
