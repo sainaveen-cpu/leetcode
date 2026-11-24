@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/sainaveen-cpu/leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1732-find-the-highest-altitude](https://github.com/sainaveen-cpu/leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1773-count-items-matching-a-rule](https://github.com/sainaveen-cpu/leetcode/tree/master/1773-count-items-matching-a-rule) |
+| [1920-build-array-from-permutation](https://github.com/sainaveen-cpu/leetcode/tree/master/1920-build-array-from-permutation) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/sainaveen-cpu/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/sainaveen-cpu/leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Binary Search
@@ -85,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0724-find-pivot-index](https://github.com/sainaveen-cpu/leetcode/tree/master/0724-find-pivot-index) |
 | [1732-find-the-highest-altitude](https://github.com/sainaveen-cpu/leetcode/tree/master/1732-find-the-highest-altitude) |
+## Simulation
+|  |
+| ------- |
+| [1920-build-array-from-permutation](https://github.com/sainaveen-cpu/leetcode/tree/master/1920-build-array-from-permutation) |
 <!---LeetCode Topics End-->
