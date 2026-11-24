@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/sainaveen-cpu/leetcode/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/sainaveen-cpu/leetcode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/sainaveen-cpu/leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/sainaveen-cpu/leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/sainaveen-cpu/leetcode/tree/master/0344-reverse-string) |
 | [0520-detect-capital](https://github.com/sainaveen-cpu/leetcode/tree/master/0520-detect-capital) |
@@ -114,11 +115,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/sainaveen-cpu/leetcode/tree/master/0067-add-binary) |
 | [1920-build-array-from-permutation](https://github.com/sainaveen-cpu/leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/sainaveen-cpu/leetcode/tree/master/1929-concatenation-of-array) |
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/sainaveen-cpu/leetcode/tree/master/0067-add-binary) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/sainaveen-cpu/leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sainaveen-cpu/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/sainaveen-cpu/leetcode/tree/master/1512-number-of-good-pairs) |
@@ -134,4 +137,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/sainaveen-cpu/leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/sainaveen-cpu/leetcode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
