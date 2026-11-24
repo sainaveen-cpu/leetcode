@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/sainaveen-cpu/leetcode/tree/master/0053-maximum-subarray) |
+| [0191-number-of-1-bits](https://github.com/sainaveen-cpu/leetcode/tree/master/0191-number-of-1-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sainaveen-cpu/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Matrix
 |  |
@@ -143,5 +144,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/sainaveen-cpu/leetcode/tree/master/0067-add-binary) |
+| [0191-number-of-1-bits](https://github.com/sainaveen-cpu/leetcode/tree/master/0191-number-of-1-bits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/sainaveen-cpu/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 <!---LeetCode Topics End-->
