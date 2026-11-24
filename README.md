@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/sainaveen-cpu/leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sainaveen-cpu/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sainaveen-cpu/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0283-move-zeroes](https://github.com/sainaveen-cpu/leetcode/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/sainaveen-cpu/leetcode/tree/master/0455-assign-cookies) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/sainaveen-cpu/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1051-height-checker](https://github.com/sainaveen-cpu/leetcode/tree/master/1051-height-checker) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/sainaveen-cpu/leetcode/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/sainaveen-cpu/leetcode/tree/master/0455-assign-cookies) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/sainaveen-cpu/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Sorting
