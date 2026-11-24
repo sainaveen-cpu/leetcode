@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/sainaveen-cpu/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1470-shuffle-the-array](https://github.com/sainaveen-cpu/leetcode/tree/master/1470-shuffle-the-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/sainaveen-cpu/leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1512-number-of-good-pairs](https://github.com/sainaveen-cpu/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/sainaveen-cpu/leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1773-count-items-matching-a-rule](https://github.com/sainaveen-cpu/leetcode/tree/master/1773-count-items-matching-a-rule) |
 | [1920-build-array-from-permutation](https://github.com/sainaveen-cpu/leetcode/tree/master/1920-build-array-from-permutation) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/sainaveen-cpu/leetcode/tree/master/1051-height-checker) |
+| [1512-number-of-good-pairs](https://github.com/sainaveen-cpu/leetcode/tree/master/1512-number-of-good-pairs) |
 ## Bubble Sort
 |  |
 | ------- |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sainaveen-cpu/leetcode/tree/master/0001-two-sum) |
+| [1512-number-of-good-pairs](https://github.com/sainaveen-cpu/leetcode/tree/master/1512-number-of-good-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/sainaveen-cpu/leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Prefix Sum
 |  |
@@ -93,4 +96,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/sainaveen-cpu/leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/sainaveen-cpu/leetcode/tree/master/1929-concatenation-of-array) |
+## Math
+|  |
+| ------- |
+| [1512-number-of-good-pairs](https://github.com/sainaveen-cpu/leetcode/tree/master/1512-number-of-good-pairs) |
 <!---LeetCode Topics End-->
