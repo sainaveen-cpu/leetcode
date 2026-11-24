@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/sainaveen-cpu/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/sainaveen-cpu/leetcode/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/sainaveen-cpu/leetcode/tree/master/0455-assign-cookies) |
+| [0724-find-pivot-index](https://github.com/sainaveen-cpu/leetcode/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/sainaveen-cpu/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1051-height-checker](https://github.com/sainaveen-cpu/leetcode/tree/master/1051-height-checker) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/sainaveen-cpu/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -78,4 +79,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/sainaveen-cpu/leetcode/tree/master/0001-two-sum) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/sainaveen-cpu/leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/sainaveen-cpu/leetcode/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
